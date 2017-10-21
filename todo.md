@@ -2,6 +2,8 @@
 - [ ] $5 + $5 = 10
 - [ ] $5 + $5がMoneyを返す
 - [x] Bank.reduce(Money)
+- [ ] Moneyを変換して換算を行う
+- [ ] Reduce(Bank, String)
 - [x] $5 * 2 = $10
 - [x] amountをprivateにする
 - [x] Dollarの副作用どうする?
